@@ -1,0 +1,17 @@
+{
+  "name": "ThePocketPT - Online Personal Training",
+  "short_name": "ThePocketPT",
+  "description": "Online personal training and fat loss coaching for busy professionals",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#353539",
+  "theme_color": "#353539",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
